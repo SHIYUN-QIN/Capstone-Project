@@ -1,0 +1,410 @@
+{
+  "P16455": {
+    "protein_name": "Mock Protein P16455",
+    "gene_name": "GENE_P164",
+    "organism": "Homo sapiens",
+    "sequence_length": 500,
+    "function": "Simulated function for testing.",
+    "ensembl_id": "ENSGP16455"
+  },
+  "P09211": {
+    "protein_name": "Mock Protein P09211",
+    "gene_name": "GENE_P092",
+    "organism": "Homo sapiens",
+    "sequence_length": 501,
+    "function": "Simulated function for testing.",
+    "ensembl_id": "ENSGP09211"
+  },
+  "P80188": {
+    "protein_name": "Mock Protein P80188",
+    "gene_name": "GENE_P801",
+    "organism": "Homo sapiens",
+    "sequence_length": 502,
+    "function": "Simulated function for testing.",
+    "ensembl_id": "ENSGP80188"
+  },
+  "P40871": {
+    "protein_name": "Mock Protein P40871",
+    "gene_name": "GENE_P408",
+    "organism": "Homo sapiens",
+    "sequence_length": 503,
+    "function": "Simulated function for testing.",
+    "ensembl_id": "ENSGP40871"
+  },
+  "P08200": {
+    "protein_name": "Mock Protein P08200",
+    "gene_name": "GENE_P082",
+    "organism": "Homo sapiens",
+    "sequence_length": 504,
+    "function": "Simulated function for testing.",
+    "ensembl_id": "ENSGP08200"
+  },
+  "Q56268": {
+    "protein_name": "Mock Protein Q56268",
+    "gene_name": "GENE_Q562",
+    "organism": "Homo sapiens",
+    "sequence_length": 505,
+    "function": "Simulated function for testing.",
+    "ensembl_id": "ENSGQ56268"
+  },
+  "P31057": {
+    "protein_name": "Mock Protein P31057",
+    "gene_name": "GENE_P310",
+    "organism": "Homo sapiens",
+    "sequence_length": 506,
+    "function": "Simulated function for testing.",
+    "ensembl_id": "ENSGP31057"
+  },
+  "P23368": {
+    "protein_name": "Mock Protein P23368",
+    "gene_name": "GENE_P233",
+    "organism": "Homo sapiens",
+    "sequence_length": 507,
+    "function": "Simulated function for testing.",
+    "ensembl_id": "ENSGP23368"
+  },
+  "Q16798": {
+    "protein_name": "Mock Protein Q16798",
+    "gene_name": "GENE_Q167",
+    "organism": "Homo sapiens",
+    "sequence_length": 508,
+    "function": "Simulated function for testing.",
+    "ensembl_id": "ENSGQ16798"
+  },
+  "O15382": {
+    "protein_name": "Mock Protein O15382",
+    "gene_name": "GENE_O153",
+    "organism": "Homo sapiens",
+    "sequence_length": 509,
+    "function": "Simulated function for testing.",
+    "ensembl_id": "ENSGO15382"
+  },
+  "P9WQB3": {
+    "protein_name": "Mock Protein P9WQB3",
+    "gene_name": "GENE_P9WQ",
+    "organism": "Homo sapiens",
+    "sequence_length": 510,
+    "function": "Simulated function for testing.",
+    "ensembl_id": "ENSGP9WQB3"
+  },
+  "Q9JZW6": {
+    "protein_name": "Mock Protein Q9JZW6",
+    "gene_name": "GENE_Q9JZ",
+    "organism": "Homo sapiens",
+    "sequence_length": 511,
+    "function": "Simulated function for testing.",
+    "ensembl_id": "ENSGQ9JZW6"
+  },
+  "P18548": {
+    "protein_name": "Mock Protein P18548",
+    "gene_name": "GENE_P185",
+    "organism": "Homo sapiens",
+    "sequence_length": 512,
+    "function": "Simulated function for testing.",
+    "ensembl_id": "ENSGP18548"
+  },
+  "Q00740": {
+    "protein_name": "Mock Protein Q00740",
+    "gene_name": "GENE_Q007",
+    "organism": "Homo sapiens",
+    "sequence_length": 513,
+    "function": "Simulated function for testing.",
+    "ensembl_id": "ENSGQ00740"
+  },
+  "Q70AC7": {
+    "protein_name": "Mock Protein Q70AC7",
+    "gene_name": "GENE_Q70A",
+    "organism": "Homo sapiens",
+    "sequence_length": 514,
+    "function": "Simulated function for testing.",
+    "ensembl_id": "ENSGQ70AC7"
+  },
+  "P17584": {
+    "protein_name": "Mock Protein P17584",
+    "gene_name": "GENE_P175",
+    "organism": "Homo sapiens",
+    "sequence_length": 515,
+    "function": "Simulated function for testing.",
+    "ensembl_id": "ENSGP17584"
+  },
+  "Q51792": {
+    "protein_name": "Mock Protein Q51792",
+    "gene_name": "GENE_Q517",
+    "organism": "Homo sapiens",
+    "sequence_length": 516,
+    "function": "Simulated function for testing.",
+    "ensembl_id": "ENSGQ51792"
+  },
+  "P16930": {
+    "protein_name": "Mock Protein P16930",
+    "gene_name": "GENE_P169",
+    "organism": "Homo sapiens",
+    "sequence_length": 517,
+    "function": "Simulated function for testing.",
+    "ensembl_id": "ENSGP16930"
+  },
+  "P00509": {
+    "protein_name": "Mock Protein P00509",
+    "gene_name": "GENE_P005",
+    "organism": "Homo sapiens",
+    "sequence_length": 518,
+    "function": "Simulated function for testing.",
+    "ensembl_id": "ENSGP00509"
+  },
+  "P95468": {
+    "protein_name": "Mock Protein P95468",
+    "gene_name": "GENE_P954",
+    "organism": "Homo sapiens",
+    "sequence_length": 519,
+    "function": "Simulated function for testing.",
+    "ensembl_id": "ENSGP95468"
+  },
+  "Q75WK2": {
+    "protein_name": "Mock Protein Q75WK2",
+    "gene_name": "GENE_Q75W",
+    "organism": "Homo sapiens",
+    "sequence_length": 520,
+    "function": "Simulated function for testing.",
+    "ensembl_id": "ENSGQ75WK2"
+  },
+  "P50440": {
+    "protein_name": "Mock Protein P50440",
+    "gene_name": "GENE_P504",
+    "organism": "Homo sapiens",
+    "sequence_length": 521,
+    "function": "Simulated function for testing.",
+    "ensembl_id": "ENSGP50440"
+  },
+  "Q9UBS5": {
+    "protein_name": "Mock Protein Q9UBS5",
+    "gene_name": "GENE_Q9UB",
+    "organism": "Homo sapiens",
+    "sequence_length": 522,
+    "function": "Simulated function for testing.",
+    "ensembl_id": "ENSGQ9UBS5"
+  },
+  "O75899": {
+    "protein_name": "Mock Protein O75899",
+    "gene_name": "GENE_O758",
+    "organism": "Homo sapiens",
+    "sequence_length": 523,
+    "function": "Simulated function for testing.",
+    "ensembl_id": "ENSGO75899"
+  },
+  "P26602": {
+    "protein_name": "Mock Protein P26602",
+    "gene_name": "GENE_P266",
+    "organism": "Homo sapiens",
+    "sequence_length": 524,
+    "function": "Simulated function for testing.",
+    "ensembl_id": "ENSGP26602"
+  },
+  "P00438": {
+    "protein_name": "Mock Protein P00438",
+    "gene_name": "GENE_P004",
+    "organism": "Homo sapiens",
+    "sequence_length": 525,
+    "function": "Simulated function for testing.",
+    "ensembl_id": "ENSGP00438"
+  },
+  "P20586": {
+    "protein_name": "Mock Protein P20586",
+    "gene_name": "GENE_P205",
+    "organism": "Homo sapiens",
+    "sequence_length": 526,
+    "function": "Simulated function for testing.",
+    "ensembl_id": "ENSGP20586"
+  },
+  "Q04416": {
+    "protein_name": "Mock Protein Q04416",
+    "gene_name": "GENE_Q044",
+    "organism": "Homo sapiens",
+    "sequence_length": 527,
+    "function": "Simulated function for testing.",
+    "ensembl_id": "ENSGQ04416"
+  },
+  "P13716": {
+    "protein_name": "Mock Protein P13716",
+    "gene_name": "GENE_P137",
+    "organism": "Homo sapiens",
+    "sequence_length": 528,
+    "function": "Simulated function for testing.",
+    "ensembl_id": "ENSGP13716"
+  },
+  "P27017": {
+    "protein_name": "Mock Protein P27017",
+    "gene_name": "GENE_P270",
+    "organism": "Homo sapiens",
+    "sequence_length": 529,
+    "function": "Simulated function for testing.",
+    "ensembl_id": "ENSGP27017"
+  },
+  "P32055": {
+    "protein_name": "Mock Protein P32055",
+    "gene_name": "GENE_P320",
+    "organism": "Homo sapiens",
+    "sequence_length": 530,
+    "function": "Simulated function for testing.",
+    "ensembl_id": "ENSGP32055"
+  },
+  "P39646": {
+    "protein_name": "Mock Protein P39646",
+    "gene_name": "GENE_P396",
+    "organism": "Homo sapiens",
+    "sequence_length": 531,
+    "function": "Simulated function for testing.",
+    "ensembl_id": "ENSGP39646"
+  },
+  "P22303": {
+    "protein_name": "Mock Protein P22303",
+    "gene_name": "GENE_P223",
+    "organism": "Homo sapiens",
+    "sequence_length": 532,
+    "function": "Simulated function for testing.",
+    "ensembl_id": "ENSGP22303"
+  },
+  "P11229": {
+    "protein_name": "Mock Protein P11229",
+    "gene_name": "GENE_P112",
+    "organism": "Homo sapiens",
+    "sequence_length": 533,
+    "function": "Simulated function for testing.",
+    "ensembl_id": "ENSGP11229"
+  },
+  "P08172": {
+    "protein_name": "Mock Protein P08172",
+    "gene_name": "GENE_P081",
+    "organism": "Homo sapiens",
+    "sequence_length": 534,
+    "function": "Simulated function for testing.",
+    "ensembl_id": "ENSGP08172"
+  },
+  "P20309": {
+    "protein_name": "Mock Protein P20309",
+    "gene_name": "GENE_P203",
+    "organism": "Homo sapiens",
+    "sequence_length": 535,
+    "function": "Simulated function for testing.",
+    "ensembl_id": "ENSGP20309"
+  },
+  "P08173": {
+    "protein_name": "Mock Protein P08173",
+    "gene_name": "GENE_P081",
+    "organism": "Homo sapiens",
+    "sequence_length": 536,
+    "function": "Simulated function for testing.",
+    "ensembl_id": "ENSGP08173"
+  },
+  "P36544": {
+    "protein_name": "Mock Protein P36544",
+    "gene_name": "GENE_P365",
+    "organism": "Homo sapiens",
+    "sequence_length": 537,
+    "function": "Simulated function for testing.",
+    "ensembl_id": "ENSGP36544"
+  },
+  "P07741": {
+    "protein_name": "Mock Protein P07741",
+    "gene_name": "GENE_P077",
+    "organism": "Homo sapiens",
+    "sequence_length": 538,
+    "function": "Simulated function for testing.",
+    "ensembl_id": "ENSGP07741"
+  },
+  "O00763": {
+    "protein_name": "Mock Protein O00763",
+    "gene_name": "GENE_O007",
+    "organism": "Homo sapiens",
+    "sequence_length": 539,
+    "function": "Simulated function for testing.",
+    "ensembl_id": "ENSGO00763"
+  },
+  "Q13126": {
+    "protein_name": "Mock Protein Q13126",
+    "gene_name": "GENE_Q131",
+    "organism": "Homo sapiens",
+    "sequence_length": 540,
+    "function": "Simulated function for testing.",
+    "ensembl_id": "ENSGQ13126"
+  },
+  "Q05603": {
+    "protein_name": "Mock Protein Q05603",
+    "gene_name": "GENE_Q056",
+    "organism": "Homo sapiens",
+    "sequence_length": 541,
+    "function": "Simulated function for testing.",
+    "ensembl_id": "ENSGQ05603"
+  },
+  "P0AF12": {
+    "protein_name": "Mock Protein P0AF12",
+    "gene_name": "GENE_P0AF",
+    "organism": "Homo sapiens",
+    "sequence_length": 542,
+    "function": "Simulated function for testing.",
+    "ensembl_id": "ENSGP0AF12"
+  },
+  "Q8RLY5": {
+    "protein_name": "Mock Protein Q8RLY5",
+    "gene_name": "GENE_Q8RL",
+    "organism": "Homo sapiens",
+    "sequence_length": 543,
+    "function": "Simulated function for testing.",
+    "ensembl_id": "ENSGQ8RLY5"
+  },
+  "P17802": {
+    "protein_name": "Mock Protein P17802",
+    "gene_name": "GENE_P178",
+    "organism": "Homo sapiens",
+    "sequence_length": 544,
+    "function": "Simulated function for testing.",
+    "ensembl_id": "ENSGP17802"
+  },
+  "Q9BY49": {
+    "protein_name": "Mock Protein Q9BY49",
+    "gene_name": "GENE_Q9BY",
+    "organism": "Homo sapiens",
+    "sequence_length": 545,
+    "function": "Simulated function for testing.",
+    "ensembl_id": "ENSGQ9BY49"
+  },
+  "Q5SL87": {
+    "protein_name": "Mock Protein Q5SL87",
+    "gene_name": "GENE_Q5SL",
+    "organism": "Homo sapiens",
+    "sequence_length": 546,
+    "function": "Simulated function for testing.",
+    "ensembl_id": "ENSGQ5SL87"
+  },
+  "P24666": {
+    "protein_name": "Mock Protein P24666",
+    "gene_name": "GENE_P246",
+    "organism": "Homo sapiens",
+    "sequence_length": 547,
+    "function": "Simulated function for testing.",
+    "ensembl_id": "ENSGP24666"
+  },
+  "P78362": {
+    "protein_name": "Mock Protein P78362",
+    "gene_name": "GENE_P783",
+    "organism": "Homo sapiens",
+    "sequence_length": 548,
+    "function": "Simulated function for testing.",
+    "ensembl_id": "ENSGP78362"
+  },
+  "P18825": {
+    "protein_name": "Mock Protein P18825",
+    "gene_name": "GENE_P188",
+    "organism": "Homo sapiens",
+    "sequence_length": 549,
+    "function": "Simulated function for testing.",
+    "ensembl_id": "ENSGP18825"
+  },
+  "P00533": {
+    "protein_name": "Epidermal growth factor receptor",
+    "gene_name": "EGFR",
+    "organism": "Homo sapiens",
+    "sequence_length": 1210,
+    "function": "Receptor tyrosine kinase binding to EGF.",
+    "ensembl_id": "ENSG00000146648"
+  }
+}

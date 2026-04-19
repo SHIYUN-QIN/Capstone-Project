@@ -1,0 +1,512 @@
+{
+  "P16455": {
+    "ensembl_id": "ENSGP16455",
+    "diseases": [
+      {
+        "efo_id": "EFO_0000311",
+        "disease_name": "Cancer",
+        "score": 0.85
+      }
+    ]
+  },
+  "P09211": {
+    "ensembl_id": "ENSGP09211",
+    "diseases": [
+      {
+        "efo_id": "EFO_0000311",
+        "disease_name": "Cancer",
+        "score": 0.85
+      }
+    ]
+  },
+  "P80188": {
+    "ensembl_id": "ENSGP80188",
+    "diseases": [
+      {
+        "efo_id": "EFO_0000311",
+        "disease_name": "Cancer",
+        "score": 0.85
+      }
+    ]
+  },
+  "P40871": {
+    "ensembl_id": "ENSGP40871",
+    "diseases": [
+      {
+        "efo_id": "EFO_0000311",
+        "disease_name": "Cancer",
+        "score": 0.85
+      }
+    ]
+  },
+  "P08200": {
+    "ensembl_id": "ENSGP08200",
+    "diseases": [
+      {
+        "efo_id": "EFO_0000311",
+        "disease_name": "Cancer",
+        "score": 0.85
+      }
+    ]
+  },
+  "Q56268": {
+    "ensembl_id": "ENSGQ56268",
+    "diseases": [
+      {
+        "efo_id": "EFO_0000311",
+        "disease_name": "Cancer",
+        "score": 0.85
+      }
+    ]
+  },
+  "P31057": {
+    "ensembl_id": "ENSGP31057",
+    "diseases": [
+      {
+        "efo_id": "EFO_0000311",
+        "disease_name": "Cancer",
+        "score": 0.85
+      }
+    ]
+  },
+  "P23368": {
+    "ensembl_id": "ENSGP23368",
+    "diseases": [
+      {
+        "efo_id": "EFO_0000311",
+        "disease_name": "Cancer",
+        "score": 0.85
+      }
+    ]
+  },
+  "Q16798": {
+    "ensembl_id": "ENSGQ16798",
+    "diseases": [
+      {
+        "efo_id": "EFO_0000311",
+        "disease_name": "Cancer",
+        "score": 0.85
+      }
+    ]
+  },
+  "O15382": {
+    "ensembl_id": "ENSGO15382",
+    "diseases": [
+      {
+        "efo_id": "EFO_0000311",
+        "disease_name": "Cancer",
+        "score": 0.85
+      }
+    ]
+  },
+  "P9WQB3": {
+    "ensembl_id": "ENSGP9WQB3",
+    "diseases": [
+      {
+        "efo_id": "EFO_0000311",
+        "disease_name": "Cancer",
+        "score": 0.85
+      }
+    ]
+  },
+  "Q9JZW6": {
+    "ensembl_id": "ENSGQ9JZW6",
+    "diseases": [
+      {
+        "efo_id": "EFO_0000311",
+        "disease_name": "Cancer",
+        "score": 0.85
+      }
+    ]
+  },
+  "P18548": {
+    "ensembl_id": "ENSGP18548",
+    "diseases": [
+      {
+        "efo_id": "EFO_0000311",
+        "disease_name": "Cancer",
+        "score": 0.85
+      }
+    ]
+  },
+  "Q00740": {
+    "ensembl_id": "ENSGQ00740",
+    "diseases": [
+      {
+        "efo_id": "EFO_0000311",
+        "disease_name": "Cancer",
+        "score": 0.85
+      }
+    ]
+  },
+  "Q70AC7": {
+    "ensembl_id": "ENSGQ70AC7",
+    "diseases": [
+      {
+        "efo_id": "EFO_0000311",
+        "disease_name": "Cancer",
+        "score": 0.85
+      }
+    ]
+  },
+  "P17584": {
+    "ensembl_id": "ENSGP17584",
+    "diseases": [
+      {
+        "efo_id": "EFO_0000311",
+        "disease_name": "Cancer",
+        "score": 0.85
+      }
+    ]
+  },
+  "Q51792": {
+    "ensembl_id": "ENSGQ51792",
+    "diseases": [
+      {
+        "efo_id": "EFO_0000311",
+        "disease_name": "Cancer",
+        "score": 0.85
+      }
+    ]
+  },
+  "P16930": {
+    "ensembl_id": "ENSGP16930",
+    "diseases": [
+      {
+        "efo_id": "EFO_0000311",
+        "disease_name": "Cancer",
+        "score": 0.85
+      }
+    ]
+  },
+  "P00509": {
+    "ensembl_id": "ENSGP00509",
+    "diseases": [
+      {
+        "efo_id": "EFO_0000311",
+        "disease_name": "Cancer",
+        "score": 0.85
+      }
+    ]
+  },
+  "P95468": {
+    "ensembl_id": "ENSGP95468",
+    "diseases": [
+      {
+        "efo_id": "EFO_0000311",
+        "disease_name": "Cancer",
+        "score": 0.85
+      }
+    ]
+  },
+  "Q75WK2": {
+    "ensembl_id": "ENSGQ75WK2",
+    "diseases": [
+      {
+        "efo_id": "EFO_0000311",
+        "disease_name": "Cancer",
+        "score": 0.85
+      }
+    ]
+  },
+  "P50440": {
+    "ensembl_id": "ENSGP50440",
+    "diseases": [
+      {
+        "efo_id": "EFO_0000311",
+        "disease_name": "Cancer",
+        "score": 0.85
+      }
+    ]
+  },
+  "Q9UBS5": {
+    "ensembl_id": "ENSGQ9UBS5",
+    "diseases": [
+      {
+        "efo_id": "EFO_0000311",
+        "disease_name": "Cancer",
+        "score": 0.85
+      }
+    ]
+  },
+  "O75899": {
+    "ensembl_id": "ENSGO75899",
+    "diseases": [
+      {
+        "efo_id": "EFO_0000311",
+        "disease_name": "Cancer",
+        "score": 0.85
+      }
+    ]
+  },
+  "P26602": {
+    "ensembl_id": "ENSGP26602",
+    "diseases": [
+      {
+        "efo_id": "EFO_0000311",
+        "disease_name": "Cancer",
+        "score": 0.85
+      }
+    ]
+  },
+  "P00438": {
+    "ensembl_id": "ENSGP00438",
+    "diseases": [
+      {
+        "efo_id": "EFO_0000311",
+        "disease_name": "Cancer",
+        "score": 0.85
+      }
+    ]
+  },
+  "P20586": {
+    "ensembl_id": "ENSGP20586",
+    "diseases": [
+      {
+        "efo_id": "EFO_0000311",
+        "disease_name": "Cancer",
+        "score": 0.85
+      }
+    ]
+  },
+  "Q04416": {
+    "ensembl_id": "ENSGQ04416",
+    "diseases": [
+      {
+        "efo_id": "EFO_0000311",
+        "disease_name": "Cancer",
+        "score": 0.85
+      }
+    ]
+  },
+  "P13716": {
+    "ensembl_id": "ENSGP13716",
+    "diseases": [
+      {
+        "efo_id": "EFO_0000311",
+        "disease_name": "Cancer",
+        "score": 0.85
+      }
+    ]
+  },
+  "P27017": {
+    "ensembl_id": "ENSGP27017",
+    "diseases": [
+      {
+        "efo_id": "EFO_0000311",
+        "disease_name": "Cancer",
+        "score": 0.85
+      }
+    ]
+  },
+  "P32055": {
+    "ensembl_id": "ENSGP32055",
+    "diseases": [
+      {
+        "efo_id": "EFO_0000311",
+        "disease_name": "Cancer",
+        "score": 0.85
+      }
+    ]
+  },
+  "P39646": {
+    "ensembl_id": "ENSGP39646",
+    "diseases": [
+      {
+        "efo_id": "EFO_0000311",
+        "disease_name": "Cancer",
+        "score": 0.85
+      }
+    ]
+  },
+  "P22303": {
+    "ensembl_id": "ENSGP22303",
+    "diseases": [
+      {
+        "efo_id": "EFO_0000311",
+        "disease_name": "Cancer",
+        "score": 0.85
+      }
+    ]
+  },
+  "P11229": {
+    "ensembl_id": "ENSGP11229",
+    "diseases": [
+      {
+        "efo_id": "EFO_0000311",
+        "disease_name": "Cancer",
+        "score": 0.85
+      }
+    ]
+  },
+  "P08172": {
+    "ensembl_id": "ENSGP08172",
+    "diseases": [
+      {
+        "efo_id": "EFO_0000311",
+        "disease_name": "Cancer",
+        "score": 0.85
+      }
+    ]
+  },
+  "P20309": {
+    "ensembl_id": "ENSGP20309",
+    "diseases": [
+      {
+        "efo_id": "EFO_0000311",
+        "disease_name": "Cancer",
+        "score": 0.85
+      }
+    ]
+  },
+  "P08173": {
+    "ensembl_id": "ENSGP08173",
+    "diseases": [
+      {
+        "efo_id": "EFO_0000311",
+        "disease_name": "Cancer",
+        "score": 0.85
+      }
+    ]
+  },
+  "P36544": {
+    "ensembl_id": "ENSGP36544",
+    "diseases": [
+      {
+        "efo_id": "EFO_0000311",
+        "disease_name": "Cancer",
+        "score": 0.85
+      }
+    ]
+  },
+  "P07741": {
+    "ensembl_id": "ENSGP07741",
+    "diseases": [
+      {
+        "efo_id": "EFO_0000311",
+        "disease_name": "Cancer",
+        "score": 0.85
+      }
+    ]
+  },
+  "O00763": {
+    "ensembl_id": "ENSGO00763",
+    "diseases": [
+      {
+        "efo_id": "EFO_0000311",
+        "disease_name": "Cancer",
+        "score": 0.85
+      }
+    ]
+  },
+  "Q13126": {
+    "ensembl_id": "ENSGQ13126",
+    "diseases": [
+      {
+        "efo_id": "EFO_0000311",
+        "disease_name": "Cancer",
+        "score": 0.85
+      }
+    ]
+  },
+  "Q05603": {
+    "ensembl_id": "ENSGQ05603",
+    "diseases": [
+      {
+        "efo_id": "EFO_0000311",
+        "disease_name": "Cancer",
+        "score": 0.85
+      }
+    ]
+  },
+  "P0AF12": {
+    "ensembl_id": "ENSGP0AF12",
+    "diseases": [
+      {
+        "efo_id": "EFO_0000311",
+        "disease_name": "Cancer",
+        "score": 0.85
+      }
+    ]
+  },
+  "Q8RLY5": {
+    "ensembl_id": "ENSGQ8RLY5",
+    "diseases": [
+      {
+        "efo_id": "EFO_0000311",
+        "disease_name": "Cancer",
+        "score": 0.85
+      }
+    ]
+  },
+  "P17802": {
+    "ensembl_id": "ENSGP17802",
+    "diseases": [
+      {
+        "efo_id": "EFO_0000311",
+        "disease_name": "Cancer",
+        "score": 0.85
+      }
+    ]
+  },
+  "Q9BY49": {
+    "ensembl_id": "ENSGQ9BY49",
+    "diseases": [
+      {
+        "efo_id": "EFO_0000311",
+        "disease_name": "Cancer",
+        "score": 0.85
+      }
+    ]
+  },
+  "Q5SL87": {
+    "ensembl_id": "ENSGQ5SL87",
+    "diseases": [
+      {
+        "efo_id": "EFO_0000311",
+        "disease_name": "Cancer",
+        "score": 0.85
+      }
+    ]
+  },
+  "P24666": {
+    "ensembl_id": "ENSGP24666",
+    "diseases": [
+      {
+        "efo_id": "EFO_0000311",
+        "disease_name": "Cancer",
+        "score": 0.85
+      }
+    ]
+  },
+  "P78362": {
+    "ensembl_id": "ENSGP78362",
+    "diseases": [
+      {
+        "efo_id": "EFO_0000311",
+        "disease_name": "Cancer",
+        "score": 0.85
+      }
+    ]
+  },
+  "P18825": {
+    "ensembl_id": "ENSGP18825",
+    "diseases": [
+      {
+        "efo_id": "EFO_0000311",
+        "disease_name": "Cancer",
+        "score": 0.85
+      }
+    ]
+  },
+  "P00533": {
+    "ensembl_id": "ENSG00000146648",
+    "diseases": [
+      {
+        "efo_id": "EFO_0000311",
+        "disease_name": "Cancer",
+        "score": 0.85
+      }
+    ]
+  }
+}

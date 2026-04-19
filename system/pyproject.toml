@@ -1,0 +1,29 @@
+[project]
+name = "DTIsystem"
+version = "0.1.0"
+description = "Uncertainty-Aware Drug-Target Interaction Prediction System"
+authors = [
+    {name = "Your Name", email = "your.email@example.com"}
+]
+dependencies = [
+    "fastapi",
+    "uvicorn[standard]",
+    "pydantic>=2.0",
+    "torch>=2.0",
+    "numpy",
+    "pandas",
+    "rdkit",
+    "scikit-learn",
+    "jinja2",
+    "pydantic-settings"
+]
+
+[project.optional-dependencies]
+dev = [
+    "pytest",
+    "httpx"
+]
+
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"

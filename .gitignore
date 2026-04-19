@@ -1,0 +1,36 @@
+# Environments
+.venv/
+venv/
+ENV/
+env/
+python/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.tox/
+.nox/
+.coverage
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.log
+
+# IDEs
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Large Data Files (Exceeding 2GB limit)
+zenodo/bond_angle/bond_angle/processed/drugbank.pt
+system/data/protein_lookup.pkl
+zenodo/bond_angle/bond_angle/bond_angle/t_feature.npy
+zenodo/KIBA/processed/KIBA.pt

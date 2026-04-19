@@ -1,0 +1,16 @@
+fastapi
+uvicorn[standard]
+pydantic>=2.0
+torch>=2.0 --index-url https://download.pytorch.org/whl/cpu
+numpy
+pandas
+rdkit
+scikit-learn
+jinja2
+pydantic-settings
+python-multipart
+pytest
+httpx
+tqdm
+sentence-transformers>=2.2.0
+faiss-cpu>=1.7.4
